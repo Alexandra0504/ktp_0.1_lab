@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\bin\Debug\WiFsA.exe
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\bin\Debug\WiFsA.pdb
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\obj\x86\Debug\WiFsA.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\obj\x86\Debug\WiFsA.Form1.resources
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\obj\x86\Debug\WiFsA.Properties.Resources.resources
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\obj\x86\Debug\WiFsA.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\obj\x86\Debug\WiFsA.exe
+C:\Users\acer\Desktop\sam\WiFsA\WiFsA\obj\x86\Debug\WiFsA.pdb
