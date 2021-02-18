@@ -8,7 +8,7 @@ namespace CLib1
 {
     public class Class1
     {
-        public static void output_mas(ref DataGridView grid, params int[] a)
+        public static void output_mas(ref DataGridView grid, params int[] a)//для вывода массива
         {
             grid.RowCount = 2;
             grid.ColumnCount = a.GetLength(0);

@@ -2,3 +2,4 @@ C:\Users\acer\Desktop\sam\CLib1\CLib1\bin\Debug\CLib1.dll
 C:\Users\acer\Desktop\sam\CLib1\CLib1\bin\Debug\CLib1.pdb
 C:\Users\acer\Desktop\sam\CLib1\CLib1\obj\Debug\CLib1.dll
 C:\Users\acer\Desktop\sam\CLib1\CLib1\obj\Debug\CLib1.pdb
+C:\Users\acer\Desktop\sam\CLib1\CLib1\obj\Debug\CLib1.csprojResolveAssemblyReference.cache
